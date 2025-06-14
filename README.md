@@ -38,7 +38,7 @@ Stay connected & updated with my journey in the field of Technology & Entreprene
 
 ## 💛 R
 
-<img src="https://github.com/user-attachments/assets/21c537cb-366e-4a12-aaa8-c1868853727b" alt="JAVA" width="150"/>
+<img src="https://github.com/user-attachments/assets/21c537cb-366e-4a12-aaa8-c1868853727b" alt="R" width="150"/>
 
 ## 🖊️ Author - Samarth Dharpure
 
